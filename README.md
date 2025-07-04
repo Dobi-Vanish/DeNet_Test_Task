@@ -33,6 +33,9 @@
    cd DeNet_Test_Task/deployments
    make up_build
 ### Пример успешного запроса
- Запуск коллекции в Postman для проверки:  
- ![изображение](https://github.com/user-attachments/assets/fbecdb2e-0e8a-4918-b2b1-8c172f62ea57)
+ Запуск коллекции в Postman для проверки: 
+ 
+ ![изображение](https://github.com/user-attachments/assets/fbecdb2e-0e8a-4918-b2b1-8c172f62ea57)  
+
+Если у Вас возникнут какие-то вопросы, замечания или что-то надо будет исправить- пожалуйста, сообщите об этом.
 
